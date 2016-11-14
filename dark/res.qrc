@@ -1,5 +1,5 @@
 <RCC>
-  <qresource prefix="/white_icons">
+  <qresource prefix="/dark_icons">
     <file>resources/ActionClear.png</file>
     <file>resources/ActionSearch.png</file>
     <file>resources/ApplicationAbout.png</file>
