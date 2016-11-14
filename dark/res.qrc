@@ -6,7 +6,6 @@
     <file>resources/ApplicationExit.png</file>
     <file>resources/ApplicationPreferences.png</file>
     <file>resources/archive.png</file>
-    <file>resources/archive.svg</file>
     <file>resources/FileNew.png</file>
     <file>resources/FileOpen.png</file>
     <file>resources/FileRevert.png</file>
@@ -24,12 +23,9 @@
     <file>resources/FilterProjects.png</file>
     <file>resources/FilterUncategorized.png</file>
     <file>resources/future.png</file>
-    <file>resources/future.svg</file>
-    <file>resources/qtodotxt.ico</file>
     <file>resources/qtodotxt.png</file>
     <file>resources/show_completed.png</file>
     <file>resources/sidepane.png</file>
-    <file>resources/sidepane.svg</file>
     <file>resources/TaskComplete.png</file>
     <file>resources/TaskCopy.png</file>
     <file>resources/TaskCreate.png</file>
@@ -37,7 +33,5 @@
     <file>resources/TaskEdit.png</file>
     <file>resources/TaskPriorityDecrease.png</file>
     <file>resources/TaskPriorityIncrease.png</file>
-  </qresource>
-  <qresource prefix="/dark_icons">
-  </qresource>
+	</qresource>
 </RCC>
