@@ -29,6 +29,7 @@
     <file>resources/TaskComplete.png</file>
     <file>resources/TaskCopy.png</file>
     <file>resources/TaskCreate.png</file>
+	<file>resources/TaskAddOnTem.png</file>
     <file>resources/TaskDelete.png</file>
     <file>resources/TaskEdit.png</file>
     <file>resources/TaskPriorityDecrease.png</file>
